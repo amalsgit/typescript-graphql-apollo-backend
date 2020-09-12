@@ -12,6 +12,7 @@
   "devDependencies": {},
   "dependencies": {
     "apollo-server": "^2.17.0",
+    "class-validator": "^0.12.2",
     "nodemon": "^2.0.4",
     "reflect-metadata": "^0.1.13",
     "sqlite3": "^5.0.0",
