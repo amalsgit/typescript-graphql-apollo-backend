@@ -1,0 +1,23 @@
+{
+  "name": "typescript-graphql-apollo-backend",
+  "version": "1.0.0",
+  "description": "A sample Graphql service with TypeORM, Apollo and TypeScript",
+  "main": "index.js",
+  "repository": "https://github.com/amalsgit/typescript-graphql-apollo-backend.git",
+  "author": "amal jayaraj <ajayaraj@architrave.de>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon -w src --ext ts --exec ts-node src/index.ts"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "apollo-server": "^2.17.0",
+    "nodemon": "^2.0.4",
+    "reflect-metadata": "^0.1.13",
+    "sqlite3": "^5.0.0",
+    "ts-node": "^9.0.0",
+    "type-graphql": "^1.0.0",
+    "typeorm": "^0.2.26",
+    "typescript": "^4.0.2"
+  }
+}
