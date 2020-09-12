@@ -20,7 +20,7 @@ Install yarn
 https://classic.yarnpkg.com/en/docs/install#mac-stable
 ```
 
-Install the packages
+Install the packages, run the below command in your terminal
 
 ```
 yarn
@@ -28,7 +28,7 @@ yarn
 
 ## Run the server
 
-To run the server
+To run the server, run the below command in your terminal
 
 ```
 yarn start
